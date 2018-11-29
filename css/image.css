@@ -1,0 +1,11 @@
+#home a:hover {
+    background: url('') 0 -45px;
+}
+
+#prev a:hover {
+    background: url('') -47px -45px;
+}
+
+#next a:hover {
+    background: url('') -91px -45px;
+}
