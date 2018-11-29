@@ -1,15 +1,30 @@
-<html>
+  <html>
 
    <head>
-     <title>CSS позиционирование</title>
-     <link rel="stylesheet" type="text/css" href="/style.css">
+        <title>CSS позиционирование</title>
    </head>
 
    <body>
-     <div id="header">шапка сайта</div>
-     <div id="menu">меню</div>
-     <div id="content">контент</div>
-     <div id="footer">низ сайта</div>
+
+     <table width="1000"  border="1"
+          align="center" cellspacing="0" cellpadding="10">
+
+        <tr bgcolor="darkred">
+            <td colspan="2" height="100">Биоинженерия. Вчера. Сегодня. Завтра.</td>
+        </tr>
+
+        <tr bgcolor="oldlace">
+            <td  width="190" height="1500">меню</td>
+            <td>Биоинженерия, биотехнология, генетика, биохимия, биоинформатика, биофизика, а так же бионика. Уверен, вы слышали все эти слова и возможно вы знаете, что от этих профессий зависит будущее, и не только ближайшее, но и очень, очень далёкое. А я здесь для того, что бы рассказать о самом интересном, ведь мало знать названия, так интересно понять что это такое и с чем его едят.<td>
+        </tr>
+     
+
+        <tr bgcolor="darkred">
+            <td colspan="2" height="30">низ сайта</td>
+        </tr>
+
+    </table>
+
    </body>
 
- </html>    
+</html>      
