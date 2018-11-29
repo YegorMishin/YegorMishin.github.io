@@ -16,11 +16,6 @@
   left:190px;
   top:100px;
 }
-#footer{
-  background:darkred;
-  width:715px;
-  height:30px;
-}    
 #news{
   background:darkred;
   width:150px;
@@ -29,3 +24,8 @@
   left:365px;
   top:10px;
 }   
+#footer{
+  background:darkred;
+  width:715px;
+  height:30px;
+}    
