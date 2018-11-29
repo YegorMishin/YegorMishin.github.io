@@ -1,5 +1,5 @@
 #header{
-  background:blue;
+  background:darkred;
   width:1000px;
   height:100px;
 }
@@ -17,12 +17,12 @@
   top:100px;
 }
 #footer{
-  background:blue;
+  background:darkred;
   width:715px;
   height:30px;
 }    
 #news{
-  background:blue;
+  background:darkred;
   width:150px;
   height:280px;
   position:absolute;
